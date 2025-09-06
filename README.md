@@ -32,7 +32,7 @@ The dataset, containing electricity data for India from 2020 to 2025, has been c
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/PiyushAgrawal626/SIH.git
+    git clone https://github.com/achaltri29/SIH-2024.git
     ```
 2.  **Data Collection:**
     -   Run the script in the `Data_extracting` directory to download the raw PDF reports.
