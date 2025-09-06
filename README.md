@@ -2,7 +2,7 @@
 
 This project is an Artificial Intelligence (AI) based model developed for the Smart India Hackathon (SIH) 2024, addressing problem statement #1624: "To develop an Artificial Intelligence (AI) based model for electricity demand projection including peak demand projection for Delhi Power system." The model predicts electricity demand, focusing on the Delhi power system.
 
-## 🚀 Features
+## Features
 
 - **Data Extraction**: The `Data_extracting` module automatically downloads daily electricity consumption reports in PDF format from the official Grid-India portal.
 - **Data Mining**: The `Data_Mining` module processes the downloaded PDFs to extract relevant data for all states and Union Territories, preparing it for analysis and model training.
@@ -11,11 +11,11 @@ This project is an Artificial Intelligence (AI) based model developed for the Sm
     -   `Energy Met (MU)`
 - **Frontend**: A basic web interface is available in the `Frontend` directory, allowing users to interact with the model and view predictions.
 
-## 📊 Dataset
+## Dataset
 
 The dataset, containing electricity data for India from 2020 to 2025, has been compiled and is available on Kaggle. You can access it here: [Indian Power Demand and Shortage Data 2020-2025](https://www.kaggle.com/datasets/preygle/indian-power-demand-and-shortage-data-2020-2025).
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 .
@@ -28,7 +28,7 @@ The dataset, containing electricity data for India from 2020 to 2025, has been c
 └── README.md
 ```
 
-## ⚙️ How to Use
+## How to Use
 
 1.  **Clone the repository:**
     ```bash
@@ -43,6 +43,6 @@ The dataset, containing electricity data for India from 2020 to 2025, has been c
 5.  **View the Frontend:**
     -   Open the `Frontend/web.html` file in a web browser to see the user interface.
 
-## 🏆 Team
+## Team
 
 This project was developed by a team of 6 members for the Smart India Hackathon 2024.
