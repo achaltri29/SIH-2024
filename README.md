@@ -1,7 +1,7 @@
 # ⚡ Electricity Demand Predictor
 
 This project is an Artificial Intelligence (AI) based model developed for the **Smart India Hackathon (SIH) 2024**, addressing problem statement **#1624**:  
-*"To develop an Artificial Intelligence (AI) based model for electricity demand projection including peak demand projection for Delhi Power system."*  
+*"To develop an Artificial Intelligence (AI) based model for electricity demand projection including peak demand projection for Delhi Power system."*
 
 The model predicts electricity demand, focusing on the Delhi power system.  
 
